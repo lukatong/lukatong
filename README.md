@@ -16,6 +16,10 @@ Tools for turning a technically capable but hard-to-use GitHub README into a fac
 
 **Need an audit for a public repository?** Open a [README audit request](https://github.com/lukatong/github-readme-makeover-skill/issues/new?template=readme-audit-request.yml).
 
+## Writing
+
+- [别让 AI 直接改 README：我做了一套先核验、再改写、再追踪结果的开源工具链](https://juejin.cn/post/7675286086838845490)
+
 ## Agent Workflows
 
 - [DSH Portable Skill Pack](https://github.com/lukatong/dsh-portable-skill-pack): portable agent workflows with verification-focused quality gates.
